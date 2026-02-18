@@ -1,0 +1,14 @@
+﻿# IntelliJ
+.idea/
+*.iml
+
+# Build outputs
+out/
+*.class
+
+# Runtime data
+data/users.csv
+
+# OS
+.DS_Store
+Thumbs.db
